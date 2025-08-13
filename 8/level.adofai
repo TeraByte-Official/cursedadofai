@@ -7,7 +7,7 @@
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "Jumgle City but there's no repeat tiles", 
-		"author": "", 
+		"author": "i rember", 
 		"separateCountdownTime": true, 
 		"previewImage": "", 
 		"previewIcon": "", 
@@ -61,8 +61,7 @@
 		"position": [0, 0], 
 		"rotation": 0, 
 		"zoom": 200, 
-		"pulseOnFloor": true, 
-		"startCamLowVFX": false,
+		"pulseOnFloor": true,
 		"bgVideo": "", 
 		"loopVideo": false, 
 		"vidOffset": 0, 
@@ -71,7 +70,6 @@
 		"planetEase": "Linear", 
 		"planetEaseParts": 1, 
 		"planetEasePartBehavior": "Mirror", 
-		"customClass": "", 
 		"defaultTextColor": "ffffff", 
 		"defaultTextShadowColor": "00000050", 
 		"congratsText": "", 
@@ -85,15 +83,15 @@
 	"actions":
 	[
 		{ "floor": 63, "eventType": "Twirl" },
-		{ "floor": 63, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
+		{ "floor": 63, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
 		{ "floor": 65, "eventType": "Twirl" },
-		{ "floor": 65, "eventType": "MoveCamera", "duration": 1, "rotation": 0, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
-		{ "floor": 67, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
+		{ "floor": 65, "eventType": "MoveCamera", "duration": 1, "rotation": 0, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
+		{ "floor": 67, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
 		{ "floor": 72, "eventType": "Twirl" },
-		{ "floor": 72, "eventType": "MoveCamera", "duration": 1, "rotation": 120, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
-		{ "floor": 74, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
+		{ "floor": 72, "eventType": "MoveCamera", "duration": 1, "rotation": 120, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
+		{ "floor": 74, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
 		{ "floor": 76, "eventType": "Twirl" },
-		{ "floor": 76, "eventType": "MoveCamera", "duration": 1, "rotation": 0, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
+		{ "floor": 76, "eventType": "MoveCamera", "duration": 1, "rotation": 0, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""},
 		{ "floor": 93, "eventType": "ColorTrack", "trackColorType": "Single", "trackColor": "2eba35ff", "secondaryTrackColor": "ffffff", "trackColorAnimDuration": 2, "trackColorPulse": "None", "trackPulseLength": 10, "trackStyle": "Standard", "trackTexture": "", "trackTextureScale": 1, "trackGlowIntensity": 100, "justThisTile": false},
 		{ "floor": 93, "eventType": "AnimateTrack", "trackAnimation": "None", "beatsAhead": 4, "trackDisappearAnimation": "Retract", "beatsBehind": 4},
 		{ "floor": 97, "eventType": "AnimateTrack", "trackAnimation": "Extend", "beatsAhead": 4, "trackDisappearAnimation": "Retract", "beatsBehind": 4},
@@ -107,7 +105,7 @@
 		{ "floor": 149, "eventType": "ColorTrack", "trackColorType": "Single", "trackColor": "ab772dff", "secondaryTrackColor": "ffffff", "trackColorAnimDuration": 2, "trackColorPulse": "None", "trackPulseLength": 10, "trackStyle": "Standard", "trackTexture": "", "trackTextureScale": 1, "trackGlowIntensity": 100, "justThisTile": false},
 		{ "floor": 149, "eventType": "AnimateTrack", "trackAnimation": "None", "beatsAhead": 4, "trackDisappearAnimation": "None", "beatsBehind": 4},
 		{ "floor": 169, "eventType": "Twirl" },
-		{ "floor": 188, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "dontDisable": false, "minVfxOnly": false, "eventTag": ""}
+		{ "floor": 188, "eventType": "MoveCamera", "duration": 1, "rotation": 60, "angleOffset": 0, "ease": "OutQuad", "eventTag": ""}
 	],
 	"decorations":
 	[
