@@ -10,7 +10,7 @@ All vertical straight tiles are removed.
 
 ### {3-X} - THE WIND-UP but it's very wound up
 Inferior-angled tiles are changed to be halfway between their original angle and 0°.
-Reflex-angled tiles; ditto, but with 360°.
+Reflex-angled tiles are adjusted halfway toward 360°.
 Straight tiles are unchanged.
 
 ### {4-X} - Love Letters but they're actually hate letters
