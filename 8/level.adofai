@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "8-X", 
+		"artist": "{8-X}", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "Jumgle City but there's no repeat tiles", 
@@ -29,6 +29,7 @@
 		"hitsound": "Kick", 
 		"hitsoundVolume": 100, 
 		"countdownTicks": 4,
+		"tileShape": "Long", 
 		"trackColorType": "Single", 
 		"trackColor": "ab772dff", 
 		"secondaryTrackColor": "ffffff", 

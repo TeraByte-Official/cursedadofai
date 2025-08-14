@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "4-X", 
+		"artist": "{4-X}", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "Love Letters but they're actually hate letters", 
@@ -29,6 +29,7 @@
 		"hitsound": "Hat", 
 		"hitsoundVolume": 0, 
 		"countdownTicks": 4,
+		"tileShape": "Long", 
 		"trackColorType": "Single", 
 		"trackColor": "debb7b", 
 		"secondaryTrackColor": "ffffff", 

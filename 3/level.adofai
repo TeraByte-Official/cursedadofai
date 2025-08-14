@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "3-X", 
+		"artist": "{3-X}", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "THE WIND-UP but it's very wound up", 
@@ -29,6 +29,7 @@
 		"hitsound": "None", 
 		"hitsoundVolume": 100, 
 		"countdownTicks": 4,
+		"tileShape": "Long", 
 		"trackColorType": "Single", 
 		"trackColor": "b8b8b8ff", 
 		"secondaryTrackColor": "ffffff", 

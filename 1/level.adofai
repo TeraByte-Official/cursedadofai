@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "1-X", 
+		"artist": "{1-X}", 
 		"specialArtistType": "AuthorIsArtist", 
 		"artistPermission": "", 
 		"song": "A Dance of Fire and Ice but it's excruciatingly long", 
@@ -29,6 +29,7 @@
 		"hitsound": "None", 
 		"hitsoundVolume": 100, 
 		"countdownTicks": 4,
+		"tileShape": "Long", 
 		"trackColorType": "Single", 
 		"trackColor": "ffffffff", 
 		"secondaryTrackColor": "ffffff", 

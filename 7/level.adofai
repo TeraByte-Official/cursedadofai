@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "7-X", 
+		"artist": "{7-X}", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "Spin 2 Win but there are no icons", 
@@ -29,6 +29,7 @@
 		"hitsound": "Kick", 
 		"hitsoundVolume": 100, 
 		"countdownTicks": 4,
+		"tileShape": "Long", 
 		"trackColorType": "Single", 
 		"trackColor": "4b4b4bff", 
 		"secondaryTrackColor": "ffffff", 
