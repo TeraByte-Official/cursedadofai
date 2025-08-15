@@ -3,7 +3,7 @@
 ## Main Game
 
 ### {1-X} - A Dance of Fire and Ice but it's excruciatingly long
-Every 270° tile has a 2-beat pause.
+Every reflex-angled tile has a 2-beat pause.
 
 ### {2-X} - Offbeats but the vertical sections are very short
 All vertical straight tiles are removed.
