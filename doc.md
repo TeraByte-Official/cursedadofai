@@ -16,9 +16,8 @@ Straight tiles are unchanged.
 ### {4-X} - Love Letters but they're actually hate letters
 Twirls are placed and removed such that all angles are inferior, switching to reflex and back after every segment of straight tiles.
 
-### {5-X} - The Midnight Train but it's going the wrong way
-Angled tiles are reflected along the vertical axis.
-Not in the repository (yet).
+### {5-X} - The Midnight Train but...?
+Not made (yet).
 
 ### {6-X} - PULSE but it was designed strangely
 The chart is moved one tile backwards, and speed changes are added to undo this effect.
