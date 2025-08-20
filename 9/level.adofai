@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "{9-X}", 
+		"artist": "<9-X>", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "Classic Pursuit but it's double time", 
@@ -221,9 +221,11 @@
 		{ "floor": 623, "eventType": "MoveTrack", "startTile": [4, "ThisTile"], "endTile": [4, "ThisTile"], "gapLength": 0, "duration": 2, "positionOffset": [1, -1], "angleOffset": 0, "ease": "OutCubic", "eventTag": ""},
 		{ "floor": 623, "eventType": "MoveTrack", "startTile": [5, "ThisTile"], "endTile": [5, "ThisTile"], "gapLength": 0, "duration": 2, "positionOffset": [1, 1], "angleOffset": 0, "ease": "OutCubic", "eventTag": ""},
 		{ "floor": 627, "eventType": "PositionTrack", "positionOffset": [-1, 1], "relativeTo": [0, "ThisTile"], "justThisTile": true, "editorOnly": false},
-		{ "floor": 628, "eventType": "PositionTrack", "positionOffset": [-1, -1], "relativeTo": [0, "ThisTile"], "justThisTile": true, "editorOnly": false}
+		{ "floor": 628, "eventType": "PositionTrack", "positionOffset": [-1, -1], "relativeTo": [0, "ThisTile"], "justThisTile": true, "editorOnly": false},
+		{ "floor": 637, "eventType": "MoveDecorations", "duration": 4, "tag": "icon", "scale": [200, 200], "parallaxOffset": [null, null], "angleOffset": 0, "ease": "OutElastic", "eventTag": ""}
 	],
 	"decorations":
 	[
+		{ "floor": 637, "eventType": "AddDecoration", "decorationImage": "9.png", "tag": "icon", "position": [2, 0], "relativeTo": "Tile", "stickToFloor": false, "pivotOffset": [0, 0], "rotation": 0, "lockRotation": false, "scale": [0, 0], "lockScale": false, "tile": [1, 1], "color": "ffffff", "opacity": 100, "depth": -1, "syncFloorDepth": false, "parallax": [0, 0], "parallaxOffset": [0, 0], "imageSmoothing": true, "blendMode": "None", "maskingType": "None", "maskingTarget": "", "useMaskingDepth": false, "maskingFrontDepth": -1, "maskingBackDepth": -1, "hitbox": "None", "hitboxTriggerType": "Once", "hitboxRepeatInterval": 1000, "hitboxEventTag": "", "hitboxDetectTarget": "Planet", "hitboxTargetPlanet": "Any", "hitboxDecoTag": "", "failHitboxType": "Box", "failHitboxScale": [100, 100], "failHitboxOffset": [0, 0], "failHitboxRotation": 0, "components": "" }
 	]
 }

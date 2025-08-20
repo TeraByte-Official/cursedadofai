@@ -3,7 +3,7 @@
 	"settings":
 	{
 		"version": 15 ,
-		"artist": "{3-X}", 
+		"artist": "<3-X>", 
 		"specialArtistType": "None", 
 		"artistPermission": "", 
 		"song": "THE WIND-UP but it's very wound up", 
@@ -83,9 +83,11 @@
 	},
 	"actions":
 	[
-		{ "floor": 96, "eventType": "Checkpoint", "tileOffset": 0}
+		{ "floor": 96, "eventType": "Checkpoint", "tileOffset": 0},
+		{ "floor": 160, "eventType": "MoveDecorations", "duration": 4, "tag": "icon", "scale": [200, 200], "parallaxOffset": [null, null], "angleOffset": 0, "ease": "OutElastic", "eventTag": ""}
 	],
 	"decorations":
 	[
+		{ "floor": 160, "eventType": "AddDecoration", "decorationImage": "3.png", "tag": "icon", "position": [0, 2], "relativeTo": "Tile", "stickToFloor": false, "pivotOffset": [0, 0], "rotation": 0, "lockRotation": false, "scale": [0, 0], "lockScale": false, "tile": [1, 1], "color": "ffffff", "opacity": 100, "depth": -1, "syncFloorDepth": false, "parallax": [0, 0], "parallaxOffset": [0, 0], "imageSmoothing": true, "blendMode": "None", "maskingType": "None", "maskingTarget": "", "useMaskingDepth": false, "maskingFrontDepth": -1, "maskingBackDepth": -1, "hitbox": "None", "hitboxTriggerType": "Once", "hitboxRepeatInterval": 1000, "hitboxEventTag": "", "hitboxDetectTarget": "Planet", "hitboxTargetPlanet": "Any", "hitboxDecoTag": "", "failHitboxType": "Box", "failHitboxScale": [100, 100], "failHitboxOffset": [0, 0], "failHitboxRotation": 0 }
 	]
 }
