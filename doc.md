@@ -18,11 +18,9 @@ Twirls are placed and removed such that all angles are inferior, switching to re
 
 ### <5-X> - The Midnight Train but it's slightly longer
 Every section of straight tiles has an extra straight tile appended to it.
-Not in the repository (yet).
 
 ### <6-X> - PULSE but it was designed strangely
 The chart is moved one tile backwards, and speed changes are added to undo this effect.
-Not in the repository (yet).
 
 ### <7-X> - Spin 2 Win but there are no icons
 All holds, twirls, and speed changes are removed (unless they were already hidden.)
@@ -33,8 +31,8 @@ Any tiles that have the same angle as the previous tile are removed.
 ### <9-X> - Classic Pursuit but it's double time
 Speed is doubled, and all tiles have another tile with the same angle appended after it.
 
-### <10-X> - Butterfly Planet but...?
-Not made (yet).
+### <10-X> - Butterfly Planet but it's a bit off
+Any non-onbeat sections have their angles altered greatly.
 
 ### <11-X> - Heracles but...?
 Not made (yet).
